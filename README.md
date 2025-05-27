@@ -9,6 +9,9 @@
 
 Hi, I'm Mike. I'm a software developer looking for work.
 
+<details>
+<summary>How-I-Spend-My-Time-Lately</summary>
+
 | Rank | How I Spend My Time Lately     |
 |-----:|--------------------------------|
 |     1| Studying Spanish               |
@@ -17,6 +20,7 @@ Hi, I'm Mike. I'm a software developer looking for work.
 |     4| Refereeing Soccer              |
 |     5| Dancing Salsa                  |
 
+</details>
 <!--
 **mpeartii/mpeartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
