@@ -5,6 +5,18 @@
 </picture>
 
 
+## About me
+
+Hi, I'm Mike. I'm a software developer looking for work.
+
+| Rank | How I Spend My Time Lately     |
+|-----:|--------------------------------|
+|     1| Studying Spanish               |
+|     2| Salesforce Development & Admin |
+|     3| Fullstack Web Development      |
+|     4| Refereeing Soccer              |
+|     5| Dancing Salsa                  |
+
 <!--
 **mpeartii/mpeartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
